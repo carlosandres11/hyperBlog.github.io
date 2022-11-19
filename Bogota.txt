@@ -1,0 +1,5 @@
+This is my history.
+
+Vamos a aprender a utilizar la consola de Bash con Freddy Vega.
+
+También esta haciendo un buen día aquí hoy en Bogotá. 
