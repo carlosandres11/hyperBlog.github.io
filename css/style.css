@@ -11,3 +11,11 @@ html{
 p{
     color: black;
 }
+#cabecera{
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    color: rgb(105, 36, 73);
+    background-color: rgb(255, 218, 238);
+    font-size: 20px;
+}
