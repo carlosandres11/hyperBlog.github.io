@@ -19,3 +19,16 @@ p{
     background-color: rgb(255, 218, 238);
     font-size: 20px;
 }
+.footer{
+    padding-top: 15px;
+    display: block;
+    width: 40%;
+    height: 35px;
+    
+    margin: 22px auto;
+    font-size: 19px;
+    font-weight: bold;
+    color: #808080;
+    background-color: #eaeaea;
+    border-radius: 10px;
+}
