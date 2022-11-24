@@ -1,4 +1,5 @@
-html{
+html
+{
     width: 80%;
     height: auto;
     margin: 0 auto;
@@ -12,7 +13,8 @@ html{
 p{
     color: black;
 }
-#cabecera{
+#cabecera
+{
     width: 50%;
     height: auto;
     margin: 0 auto;
@@ -20,14 +22,25 @@ p{
     background-color: rgb(255, 218, 238);
     font-size: 20px;
 }
-body{
+body
+{
     position: relative;
 }
-.logo{
-    background-image: url(./img/dragon.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+.logo
+{
     width: 50px;
     height: auto;
+}
+.footer
+{
+    padding-top: 15px;
+    display: block;
+    width: 40%;
+    height: 35px;
+    margin: 22px auto;
+    font-size: 19px;
+    font-weight: bold;
+    color: #888888;
+    background-color: #fbfbfb;
+    border-radius: 10px;
 }
