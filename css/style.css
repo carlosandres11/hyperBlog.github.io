@@ -3,10 +3,11 @@ html{
     height: auto;
     margin: 0 auto;
     margin-top: 20px;
-    border: 3px solid #f1f1f1;
+    border: 3px solid #ffffff;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: deeppink;
+    background-color: #ededed;
 }
 p{
     color: black;
@@ -18,4 +19,15 @@ p{
     color: rgb(105, 36, 73);
     background-color: rgb(255, 218, 238);
     font-size: 20px;
+}
+body{
+    position: relative;
+}
+.logo{
+    background-image: url(./img/dragon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50px;
+    height: auto;
 }
