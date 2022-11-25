@@ -20,6 +20,7 @@ p{
     margin: 0 auto;
     color: rgb(105, 36, 73);
     background-color: rgb(255, 218, 238);
+    border-radius: 10px;
     font-size: 20px;
 }
 body
